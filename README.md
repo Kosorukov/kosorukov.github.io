@@ -26,7 +26,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # Задания по Информационным технологиям в изчении иностраных языков
 
-1.[Задание 1]()
-2.[Задание 2]()
-3.[Задание 3](https://kodaktor.ru/?!=45a0f91_1b83d)
-4.[Задание 4]()
+1. [Задание 1]()
+2. [Задание 2]()
+3. [Задание 3](https://kodaktor.ru/?!=45a0f91_1b83d)
+4. [Задание 4]()
